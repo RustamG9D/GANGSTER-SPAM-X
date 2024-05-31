@@ -13,10 +13,10 @@
 
 <h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
 
-<p align="center"><a href="https://t.me/NEHAL_OPx"><img src="https://telegra.ph/file/81e36ffecc345ec6f477e.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/SPEED_OPx"><img src="https://telegra.ph/file/81e36ffecc345ec6f477e.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using THIS GANGSTER SPAM BOT, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using THIS SPEED SPAM BOT, That is the greatest pleasure we have !
 
 <br>
 
