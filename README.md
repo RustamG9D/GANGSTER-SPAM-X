@@ -1,4 +1,4 @@
-### 🌷𝐆𝐀𝐍𝐆𝐒𝐓𝐄𝐑🌷
+### 🌷𝐒𝐏𝐄𝐄𝐃🌷
 
 <!--
 **Itzsahare/Itzsahare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +9,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itszshivam/count.svg" />
 </p>
 
-<h1 align="center"><b>⚡️𝐆𝐀𝐍𝐆𝐒𝐓𝐄𝐑 𝐒𝐏𝐀𝐌⚡️</b></h1>
+<h1 align="center"><b>⚡️𝐒𝐏𝐄𝐄𝐃 𝐗 𝐒𝐏𝐀𝐌⚡️</b></h1>
 
 <h4 align="center">⚡️𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒⚡️</h4>
 
@@ -51,4 +51,4 @@
 
 
 # ꜱᴜᴘᴘᴏʀᴛ ✨
-<a href="https://t.me/ll_GANGSTER_x_POWER_ll"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://ADU_KING"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
